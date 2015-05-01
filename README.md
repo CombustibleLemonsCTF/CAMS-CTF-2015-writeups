@@ -1,4 +1,4 @@
-# CAMS CTF 2015
+# [CAMS CTF 2015](http://camsctf.com/)
 
 Writeups for a CTF run by the California Academy of Mathematics and Science.
 
@@ -7,5 +7,5 @@ Useful software:
 * Python
 * Binwalk
 * Bless Hex Editor
-* Atom Text Editor
+* [Atom Text Editor](https://atom.io/)
 * Google Chrome
