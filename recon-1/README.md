@@ -15,7 +15,7 @@
 
 ### Solution
 
-The social utility which they are reffering to is [Facebook](https://www.facebook.com/).
+The social utility which they are refering to is [Facebook](https://www.facebook.com/).
 
 **Note:** You need a Facebook account to complete this challenge.
 
