@@ -19,7 +19,7 @@ Upon first inspecting [the source](impossible_salt.py), it may seem like the cha
 
 Note that the code in `impossible_salt.py` would only be legal in Python 3, which allows for variable names with certain Unicode characters.
 
-```
+```python
 [!] python3
 Python 3.3.2+ (default, Feb 28 2014, 00:52:16) 
 [GCC 4.8.1] on linux
