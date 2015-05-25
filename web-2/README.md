@@ -11,7 +11,7 @@
 
 **Hint**: 
 
-None given.
+> 2015-04-18 > Hint for Web 2: Remember that time when you guessed the admin password? Yeah.
 
 ### Solution
 
