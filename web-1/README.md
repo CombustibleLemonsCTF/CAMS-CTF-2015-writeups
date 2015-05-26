@@ -15,7 +15,7 @@ None given.
 
 ### Solution
 
-Most web pages are formatted using [HTML](http://www.w3schools.com/html/), **H**yper-**T**ext **M**arkup **L**anguage. In HTML, items on a page, called elements, are denoted using tags, which contain the name of the element enclosed on either side by angle brackets. Most elements have an opening tag and a closing tag; a forward slash prepends the name of the element in a closing tag. For a more comprehensive overview of HTML, visit the excellent tutorial above.
+Most web pages are formatted using [HTML](http://www.w3schools.com/html/), **H**yper-**T**ext **M**arkup **L**anguage. In HTML, items on a page, called elements, are denoted using tags, which contain the name of the element enclosed on either side by angle brackets. Most elements have an opening tag and a closing tag; a forward slash prepends the name of the element in a closing tag. For a more comprehensive overview of HTML, visit the excellent tutorial below.
 
 Here is the source of the page, which can be obtained in Chrome by pressing <kbd>CTRL</kbd> + <kbd>U</kbd>: 
 

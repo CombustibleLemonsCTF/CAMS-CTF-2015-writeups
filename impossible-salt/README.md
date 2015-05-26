@@ -15,7 +15,7 @@ None given.
 
 ### Solution
 
-Upon first inspecting [the source](impossible_salt.py), it may seem like the challenge is actually impossible. You get a salt that contains a 10000-digit random number, right? Not so. This is because the there are two different variables at play here: `SALT` and `SΑLT` (notice the slightly different `A`). Because the latter is set inside the loop and passed to `salt_filename`, there are actually only 10 possibilities, `saltystuff[0-9]` to search manually.
+Upon first inspecting [the source](impossible_salt.py), it may seem like the challenge is actually impossible. You get a salt that contains a 10000-digit random number, right? Not so. This is because the there are two different variables at play here: `SALT` and `SΑLT` (notice the difference between the "A" and the uppercase Greek Alpha). Because the latter is set inside the loop and passed to `salt_filename`, there are actually only 10 possibilities, `saltystuff[0-9]` to search manually.
 
 Note that the code in `impossible_salt.py` would only be legal in Python 3, which allows for variable names with certain Unicode characters.
 

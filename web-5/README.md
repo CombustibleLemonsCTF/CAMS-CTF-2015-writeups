@@ -21,7 +21,7 @@ Viewing the source and the cookies does not yield anything of interest. However,
 "Getting the flag is easy. All you need to do is hack Google, pretend to be a crawler from Google, crawl onto the NSA website, hack the site, then have the site redirect the crawler to this page." - M4gn4te Troll
 ```
 
-As part of a request, your browser also send HTTP headers, which contain information about the request itself. The `User-Agent` field contains what browser and operating system you are using. This can help websites cater to your device, but, because HTTP headers can be modified, they cannot necessarily be trusted.
+As part of a request, your browser also sends HTTP headers, which contain information about the request itself. The `User-Agent` field contains what browser and operating system you are using. This can help websites cater to your device, but, because HTTP headers can be modified, they cannot necessarily be trusted.
 
 For example, it often costs more to connect your laptop rather than your phone to a plane's wi-fi. However, because the airline can only rely on your user agent to determine your device type, a savvy user can skirt around the price hike by changing his or her browser's user agent.
 
