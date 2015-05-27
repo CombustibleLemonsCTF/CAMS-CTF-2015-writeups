@@ -14,7 +14,7 @@ None given.
 
 ### Solution
 
-Waiting for my teammate to post the solution.
+According to [Wikipedia](http://en.wikipedia.org/wiki/Clock_rate), the official fastest clock speed according to the Guinness World Records is `8.805 GHz`.
 
 ### Other Resources
 
